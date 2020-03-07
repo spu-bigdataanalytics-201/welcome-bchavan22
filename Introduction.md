@@ -115,11 +115,11 @@ print(grade)
 ## Your To-Do List for This Task
 
 - [x] You will mark things you did in this list, like this one.
-- [ ] Go over on this README file, entirely.
-- [ ] Go over the links in [the things you need to prepared for](#how-to-prepare-to-the-first-class) section.
-- [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
-- [ ] Try the grading function in [grading](#grading) section.
-- [ ] [Participate](https://github.com/spu-bigdataanalytics-201/welcome/issues/1) in final project discussion!
+- [X] Go over on this README file, entirely.
+- [X] Go over the links in [the things you need to prepared for](#how-to-prepare-to-the-first-class) section.
+- [x] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
+- [X] Try the grading function in [grading](#grading) section.
+- [X] [Participate](https://github.com/spu-bigdataanalytics-201/welcome/issues/1) in final project discussion!
 - [ ] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
 
 ## Conclusion
