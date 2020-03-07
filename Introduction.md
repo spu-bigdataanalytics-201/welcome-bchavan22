@@ -120,7 +120,7 @@ print(grade)
 - [x] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
 - [X] Try the grading function in [grading](#grading) section.
 - [X] [Participate](https://github.com/spu-bigdataanalytics-201/welcome/issues/1) in final project discussion!
-- [ ] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
+- [X] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
 
 ## Conclusion
 
